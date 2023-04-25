@@ -7,3 +7,12 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  body {
+    color: purple;
+  }
+  
+  h1 {
+    color: rgb(0, 255, 213);
+  }
+
